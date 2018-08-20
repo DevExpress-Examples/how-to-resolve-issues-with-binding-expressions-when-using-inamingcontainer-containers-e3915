@@ -15,9 +15,7 @@
     <dx:ASPxGridView ID="gv" runat="server" AutoGenerateColumns="False" DataSourceID="ads"
         KeyFieldName="CategoryID">
         <Columns>
-            <dx:GridViewCommandColumn VisibleIndex="0">
-                <EditButton Visible="True">
-                </EditButton>
+            <dx:GridViewCommandColumn ShowEditButton="true" VisibleIndex="0">
             </dx:GridViewCommandColumn>
             <dx:GridViewDataTextColumn FieldName="CategoryID" ReadOnly="True" VisibleIndex="1">
                 <EditFormSettings Visible="False" />
