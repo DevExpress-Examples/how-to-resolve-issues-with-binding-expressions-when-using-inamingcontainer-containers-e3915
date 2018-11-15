@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [DXControlsTwoWayBinding.aspx](./CS/WebSite/DXControlsTwoWayBinding.aspx) (VB: [DXControlsTwoWayBinding.aspx.vb](./VB/WebSite/DXControlsTwoWayBinding.aspx.vb))
+* [DXControlsTwoWayBinding.aspx.cs](./CS/WebSite/DXControlsTwoWayBinding.aspx.cs) (VB: [DXControlsTwoWayBinding.aspx.vb](./VB/WebSite/DXControlsTwoWayBinding.aspx.vb))
+* [DXTemplatesContainerObject.aspx](./CS/WebSite/DXTemplatesContainerObject.aspx) (VB: [DXTemplatesContainerObject.aspx.vb](./VB/WebSite/DXTemplatesContainerObject.aspx.vb))
+* [DXTemplatesContainerObject.aspx.cs](./CS/WebSite/DXTemplatesContainerObject.aspx.cs) (VB: [DXTemplatesContainerObject.aspx.vb](./VB/WebSite/DXTemplatesContainerObject.aspx.vb))
+* [MSControlsTwoWayBinding.aspx](./CS/WebSite/MSControlsTwoWayBinding.aspx) (VB: [MSControlsTwoWayBinding.aspx.vb](./VB/WebSite/MSControlsTwoWayBinding.aspx.vb))
+* [MSControlsTwoWayBinding.aspx.cs](./CS/WebSite/MSControlsTwoWayBinding.aspx.cs) (VB: [MSControlsTwoWayBinding.aspx.vb](./VB/WebSite/MSControlsTwoWayBinding.aspx.vb))
+<!-- default file list end -->
 # How to resolve issues with binding expressions when using INamingContainer containers
 
 
